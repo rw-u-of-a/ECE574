@@ -1,2 +1,2 @@
 # ECE574
-# This is READ.me for this repository
+# This is a READ.me for this repository
